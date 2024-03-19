@@ -8,6 +8,8 @@
 - Motoko
 - JavaScript
 - Canister
+- React
+- Material-UI
 
 ### Process:
 
